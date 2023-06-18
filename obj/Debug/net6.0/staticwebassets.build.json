@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Qc9lVD7Pb0vcsJuGgY8NQZ82HgOuiT8vJzQXI1hRnRU=",
+  "Hash": "dOTPzoR0jgM2JnyfPdQRscQaLDWbtAE/iWIamO4LeMw=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\C#\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\C#\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\bootstrap.css",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "css/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
       "Identity": "D:\\C#\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\site.css",
